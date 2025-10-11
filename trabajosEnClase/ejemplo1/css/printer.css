@@ -1,0 +1,9 @@
+h1 {
+    text-transform: lowercase;
+    background-color: white;
+    color: #000;
+}
+
+p {
+    display: none;
+}
